@@ -1,4 +1,4 @@
-# GalaxyHop
+# GalaxyHop 💫
 Virtually "hop" to various locations in our galaxy to see the local weather and your physical stats and enjoy a 3D immersive viewer. Built using Python, Customtkinter GUI, and NASA/Weather/World API fetches. 🛰️
   
 **Author**: Bernadette Burks  
