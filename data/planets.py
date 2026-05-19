@@ -18,7 +18,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/mars.jpg",
-            "3d_model_path": "assets/models/mars.glb"
+            "3d_model_path": "assets/3d/mars.glb"
         },
 
         "fun_fact": "Mars has the largest volcano in the solar system.",
@@ -40,7 +40,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/venus.jpg",
-            "3d_model_path": "assets/models/venus.glb"
+            "3d_model_path": "assets/3d/venus.glb"
             },
 
         "fun_fact": "Venus is the hottest planet in the solar system.",
@@ -62,7 +62,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/jupiter.jpg",
-            "3d_model_path": "assets/models/jupiter.glb"
+            "3d_model_path": "assets/3d/jupiter.glb"
         },
 
         "fun_fact": "Jupiter is the largest planet in the solar system.",
@@ -84,7 +84,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/saturn.jpg",
-            "3d_model_path": "assets/models/saturn.glb"
+            "3d_model_path": "assets/3d/saturn.glb"
         },
 
         "fun_fact": "Saturn is known for its prominent ring system.",
@@ -106,7 +106,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/uranus.jpg",
-            "3d_model_path": "assets/models/uranus.glb"
+            "3d_model_path": "assets/3d/uranus.glb"
         },
 
         "fun_fact": "Uranus rotates on its side.",
@@ -128,7 +128,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/neptune.jpg",
-            "3d_model_path": "assets/models/neptune.glb"
+            "3d_model_path": "assets/3d/neptune.glb"
         },
 
         "fun_fact": "Neptune has the strongest winds in the solar system.",
@@ -150,7 +150,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/pluto.jpg",
-            "3d_model_path": "assets/models/pluto.glb"
+            "3d_model_path": "assets/3d/pluto.glb"
         },
 
         "fun_fact": "Pluto is classified as a dwarf planet.",
@@ -172,7 +172,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/mercury.jpg",
-            "3d_model_path": "assets/models/mercury.glb"
+            "3d_model_path": "assets/3d/mercury.glb"
         },
 
         "fun_fact": "Mercury is the closest planet to the Sun.",
@@ -194,7 +194,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/earth.jpg",
-            "3d_model_path": "assets/models/earth.glb"
+            "3d_model_path": "assets/3d/earth.glb"
         },
 
         "fun_fact": "Earth is the only planet known to support life.",
@@ -216,7 +216,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/moon.jpg",
-            "3d_model_path": "assets/models/moon.glb"
+            "3d_model_path": "assets/3d/moon.glb"
         },
 
         "fun_fact": "The Moon is Earth's only natural satellite.",
@@ -238,7 +238,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/phobos.jpg",
-            "3d_model_path": "assets/models/phobos.glb"
+            "3d_model_path": "assets/3d/phobos.glb"
         },
 
         "fun_fact": "Phobos is one of Mars' moons.",
@@ -260,7 +260,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/deimos.jpg",
-            "3d_model_path": "assets/models/deimos.glb"
+            "3d_model_path": "assets/3d/deimos.glb"
         },
 
         "fun_fact": "Deimos is one of Mars' moons.",
@@ -282,7 +282,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/europa.jpg",
-            "3d_model_path": "assets/models/europa.glb"
+            "3d_model_path": "assets/3d/europa.glb"
         },
 
         "fun_fact": "Europa is one of Jupiter's moons.",
@@ -304,7 +304,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/ganymede.jpg",
-            "3d_model_path": "assets/models/ganymede.glb"
+            "3d_model_path": "assets/3d/ganymede.glb"
         },
 
         "fun_fact": "Ganymede is the largest moon of Jupiter.",
@@ -326,7 +326,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/callisto.jpg",
-            "3d_model_path": "assets/models/callisto.glb"
+            "3d_model_path": "assets/3d/callisto.glb"
         },
 
         "fun_fact": "Callisto is one of Jupiter's moons.",
@@ -348,7 +348,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/titan.jpg",
-            "3d_model_path": "assets/models/titan.glb"
+            "3d_model_path": "assets/3d/titan.glb"
         },
 
         "fun_fact": "Titan is the largest moon of Saturn.",
@@ -370,7 +370,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/enceladus.jpg",
-            "3d_model_path": "assets/models/enceladus.glb"
+            "3d_model_path": "assets/3d/enceladus.glb"
         },
 
         "fun_fact": "Enceladus is one of Saturn's moons.",
@@ -392,7 +392,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/mimas.jpg",
-            "3d_model_path": "assets/models/mimas.glb"
+            "3d_model_path": "assets/3d/mimas.glb"
         },
 
         "fun_fact": "Mimas is one of Saturn's moons.",
@@ -414,7 +414,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/iapetus.jpg",
-            "3d_model_path": "assets/models/iapetus.glb"
+            "3d_model_path": "assets/3d/iapetus.glb"
         },
 
         "fun_fact": "Iapetus is one of Saturn's moons.",
@@ -436,7 +436,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/rhea.jpg",
-            "3d_model_path": "assets/models/rhea.glb"
+            "3d_model_path": "assets/3d/rhea.glb"
         },
 
         "fun_fact": "Rhea is one of Saturn's moons.",
@@ -458,7 +458,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/dione.jpg",
-            "3d_model_path": "assets/models/dione.glb"
+            "3d_model_path": "assets/3d/dione.glb"
         },
 
         "fun_fact": "Dione is one of Saturn's moons.",
@@ -480,7 +480,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/tethys.jpg",
-            "3d_model_path": "assets/models/tethys.glb"
+            "3d_model_path": "assets/3d/tethys.glb"
         },
 
         "fun_fact": "Tethys is one of Saturn's moons.",
@@ -502,7 +502,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/hyperion.jpg",
-            "3d_model_path": "assets/models/hyperion.glb"
+            "3d_model_path": "assets/3d/hyperion.glb"
         },
 
         "fun_fact": "Hyperion is one of Saturn's moons.",
@@ -524,7 +524,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/phoebe.jpg",
-            "3d_model_path": "assets/models/phoebe.glb"
+            "3d_model_path": "assets/3d/phoebe.glb"
         },
 
         "fun_fact": "Phoebe is one of Saturn's moons.",
@@ -546,7 +546,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/charon.jpg",
-            "3d_model_path": "assets/models/charon.glb"
+            "3d_model_path": "assets/3d/charon.glb"
         },
 
         "fun_fact": "Charon is the largest moon of Pluto.",
@@ -568,7 +568,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/ceres.jpg",
-            "3d_model_path": "assets/models/ceres.glb"
+            "3d_model_path": "assets/3d/ceres.glb"
         },
 
         "fun_fact": "Ceres is the largest object in the asteroid belt.",
@@ -590,7 +590,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/vesta.jpg",
-            "3d_model_path": "assets/models/vesta.glb"
+            "3d_model_path": "assets/3d/vesta.glb"
         },
 
         "fun_fact": "Vesta is one of the largest objects in the asteroid belt.",
@@ -612,7 +612,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/pallas.jpg",
-            "3d_model_path": "assets/models/pallas.glb"
+            "3d_model_path": "assets/3d/pallas.glb"
         },
 
         "fun_fact": "Pallas is one of the largest objects in the asteroid belt.",
@@ -634,7 +634,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/hygiea.jpg",
-            "3d_model_path": "assets/models/hygiea.glb"
+            "3d_model_path": "assets/3d/hygiea.glb"
         },
 
         "fun_fact": "Hygiea is one of the largest objects in the asteroid belt.",
@@ -656,7 +656,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/eris.jpg",
-            "3d_model_path": "assets/models/eris.glb"
+            "3d_model_path": "assets/3d/eris.glb"
         },
 
         "fun_fact": "Eris is one of the largest dwarf planets in the Solar System.",
@@ -678,7 +678,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/makemake.jpg",
-            "3d_model_path": "assets/models/makemake.glb"
+            "3d_model_path": "assets/3d/makemake.glb"
         },
 
         "fun_fact": "Makemake is one of the largest dwarf planets in the Solar System.",
@@ -700,7 +700,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/haumea.jpg",
-            "3d_model_path": "assets/models/haumea.glb"
+            "3d_model_path": "assets/3d/haumea.glb"
         },
 
         "fun_fact": "Haumea is one of the largest dwarf planets in the Solar System.",
@@ -722,7 +722,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/gonggong.jpg",
-            "3d_model_path": "assets/models/gonggong.glb"
+            "3d_model_path": "assets/3d/gonggong.glb"
         },
 
         "fun_fact": "Gonggong is one of the largest dwarf planets in the Solar System.",
@@ -744,7 +744,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/quaoar.jpg",
-            "3d_model_path": "assets/models/quaoar.glb"
+            "3d_model_path": "assets/3d/quaoar.glb"
         },
 
         "fun_fact": "Quaoar is one of the largest dwarf planets in the Solar System.",
@@ -766,7 +766,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/sedna.jpg",
-            "3d_model_path": "assets/models/sedna.glb"
+            "3d_model_path": "assets/3d/sedna.glb"
         },
 
         "fun_fact": "Sedna is one of the largest dwarf planets in the Solar System.",
@@ -788,7 +788,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/orcus.jpg",
-            "3d_model_path": "assets/models/orcus.glb"
+            "3d_model_path": "assets/3d/orcus.glb"
         },
 
         "fun_fact": "Orcus is one of the largest dwarf planets in the Solar System.",
@@ -810,7 +810,7 @@ CELESTIAL_BODIES = {
 
         "media": {
             "image_path": "assets/images/salacia.jpg",
-            "3d_model_path": "assets/models/salacia.glb"
+            "3d_model_path": "assets/3d/salacia.glb"
         },
 
         "fun_fact": "Salacia is one of the largest dwarf planets in the Solar System.",
